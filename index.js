@@ -60,7 +60,6 @@ function hippHippHurra() {
     setTimeout(hipp, 250)
     setTimeout(hipp, 500)
     setTimeout(hurra, 1500)
-
 }
 function hipp() {
     response += "hipp... "
